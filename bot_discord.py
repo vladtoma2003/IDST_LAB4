@@ -1,3 +1,4 @@
+ #©Copyright 2021 Vlad Iliescu
     #!./.venv/bin/python
 
 import discord      # base discord module
